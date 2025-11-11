@@ -1,5 +1,5 @@
 # US Election Donations from PRC-Linked Entities (2016–2024)
-_Last updated: November 2025_
+_Last updated: November 11, 2025_
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Data Source: FEC](https://img.shields.io/badge/Data-FEC%20Public%20Records-blue)
 ![Status: Ongoing Analysis](https://img.shields.io/badge/Status-Ongoing-yellow)
