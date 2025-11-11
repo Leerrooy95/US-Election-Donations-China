@@ -6,16 +6,19 @@
 
 ---
 
-## The Pattern
+## The Pattern (37 Donations, 10+ Crises)
 
 | Year | Crisis | Donation |
 |------|--------|----------|
-| 2016 | RNC: "China is killing us" | $25K to Trump |
+| 2016 | RNC: "China is killing us" | $25K to RNC-aligned campaign |
+| 2016 | DNC leaks | $50K to Democrats |
 | 2020 | COVID: "China virus" | $30K to Democrats |
-| 2024 | TikTok ban + election | $30K to GOP |
+| 2020 | DNC Convention | $20K to Biden |
+| 2024 | RNC: Trump shot | $25K to Trump |
+| 2024 | TikTok ban debate | $30K to GOP |
+| ... | *+31 more* | *Total: $565K* |
 
 **Correlation with polarization: r = 0.82**
-
 ---
 
 ## Files
