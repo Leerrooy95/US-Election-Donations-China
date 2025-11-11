@@ -1,8 +1,12 @@
 # US Election Donations from PRC-Linked Entities (2016–2024)
+_Last updated: November 2025_
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Data Source: FEC](https://img.shields.io/badge/Data-FEC%20Public%20Records-blue)
+![Status: Ongoing Analysis](https://img.shields.io/badge/Status-Ongoing-yellow)
 
 **Publicly documented political donations associated with PRC-linked individuals and organizations during U.S. election flashpoints.**
 
-This repository analyses publicly available U.S. campaign-finance records (2016–2024) to identify donation patterns from individuals or entities with documented connections to the People’s Republic of China (PRC). It explores how these donations align with key moments of U.S. political tension and polarization.  
+This repository analyzes publicly available U.S. campaign-finance records (2016–2024) to identify donation patterns from individuals or entities with documented connections to the People’s Republic of China (PRC). It explores how these donations align with key moments of U.S. political tension and polarization.  
 **Important:** This project presents data and pattern-recognition only — it does not claim intent, coordination, or illegality.
 
 **Key Pattern Identified:**  
