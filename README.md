@@ -4,6 +4,32 @@
 **2016, 2020, 2024.**  
 **Both parties. Same pattern.**
 
+### Definition of "China-Linked Donor"
+
+For the purposes of this research, the term *"China-linked donor"* refers to donors whose financial, corporate, residency, or ownership records show direct connection to the People's Republic of China (PRC) or PRC-based entities. 
+
+**This does *not* imply that any individual donor is acting on behalf of the Chinese government, or that donations were coordinated, illegal, or intentionally intended to influence U.S. politics.**
+
+The classification is based on publicly available, verifiable data sources, including:
+- State and federal campaign finance records (FEC data)
+- Corporate registries and beneficial ownership filings
+- Business address registrations
+- Foreign agent registration documents when applicable
+
+**A donor may be classified as "China-linked" if one or more of the following criteria are met:**
+1. The donor is an officer, owner, or beneficiary of a company registered in the PRC.
+2. The donor lists a PRC-based business or institutional address.
+3. The donor has documented business partnerships with PRC-backed or state-influenced firms.
+4. The donation originates from an organization whose controlling entity is registered in the PRC.
+
+**Important Limitations**
+
+- **U.S. citizens living or working in China are not assumed to be foreign agents.**
+- **This research does *not* assert or imply intent**, coordination, or interference.
+- **This project identifies correlations and patterns in publicly available data only.**
+
+This research is presented for public awareness and further independent analysis.
+
 ---
 
 ## The Pattern (37 Donations, 10+ Crises)
