@@ -47,6 +47,22 @@ This research is presented for public awareness and further independent analysis
 **Correlation with polarization: r = 0.82**
 ---
 
+### How to Interpret These Findings
+
+The patterns identified in this project are based on **publicly available campaign finance and corporate registry data**. These findings highlight **correlations**, not proven causation.
+
+This research **does not assert** that:
+- Any individual donor acted with coordinated intent
+- Any campaign knowingly accepted foreign-directed funds
+- Any contribution is definitively illegal without further legal review or investigative authority
+
+The purpose of this project is to:
+1. Map **publicly visible relationships**
+2. Identify **unusual concentration patterns** in donation flows
+3. Provide a **starting point** for journalists, researchers, and oversight bodies
+
+These findings should be interpreted as **preliminary evidence that warrants further examination**, not as final conclusions.
+
 ## Files
 
 - `data/donations_2016_2020_2024.csv`
