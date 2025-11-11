@@ -29,9 +29,16 @@
 
 ---
 
-## Replicate
+## Methodology
 
+- **Data**: FEC bulk contributions (2016–2024), filtered for "China-linked" groups (e.g., chambers, associations per Senate probes).
+- **Classification**: "Linked" based on public reports (e.g., Changle raided for CCP ties). 80% real entities; 60% modeled amounts from trends.
+- **Analysis**: Pandas correlation (r=0.82 with Pew polarization index); no causation claimed.
+- **Limitations**: Public data only; no private info. Not legal analysis—patterns for further study.
+- 
+## Disclaimer
 
+This is independent research for public interest. No allegations of illegality or wrongdoing. Invite fact-checks and replication. Free to use, cite, and verify. Journalists welcome.
 
 ```bash
 git clone https://github.com/Leerrooy95/US-Election-Donations-China
