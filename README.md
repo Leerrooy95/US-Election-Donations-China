@@ -9,6 +9,10 @@ _Last updated: November 11, 2025_
 This repository analyzes publicly available U.S. campaign-finance records (2016–2024) to identify donation patterns from individuals or entities with documented connections to the People’s Republic of China (PRC). It explores how these donations align with key moments of U.S. political tension and polarization.  
 **Important:** This project presents data and pattern-recognition only — it does not claim intent, coordination, or illegality.
 
+# US Election Donations from PRC-Linked Entities (2016–2024)
+
+This repo documents and analyzes publicly available U.S. campaign finance records to identify donation patterns from individuals and entities with documented PRC links. It uses the same pipeline and reproducibility standards as the Unwitting Asset Model: decade/year segmentation, event tagging, correlation & permutation testing, and full sources for verification. No allegations of intent — only factual, source-linked events and reproducible analysis.
+
 **Key Pattern Identified:**  
 Across the 2016, 2020 and 2024 election cycles, 37 donations totaling approximately **US $565,000** from PRC-linked donors coincide with 10 major political events. Statistical correlation with U.S. polarization metrics: *r = 0.82*.  
 **This correlation does *not* imply causation.**
