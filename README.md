@@ -34,6 +34,11 @@ This work is independent, transparent and intended for public awareness. All dat
 
 ---
 
+
+_For a full explanation of the methodology used in this analysis (event coding, correlation logic, permutation testing, and reproducibility standards), see the companion research repo:_  
+👉 https://github.com/Leerrooy95/unwitting-asset-model
+
+
 ## Definition of “China-Linked Donor”
 For this project, a *“China-linked donor”* refers to a donor (individual or organization) whose publicly verifiable records demonstrate a direct connection to the People’s Republic of China (PRC) or PRC-based entities, via financial, corporate, residency or ownership relationships.
 
